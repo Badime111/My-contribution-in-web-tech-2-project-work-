@@ -17,7 +17,7 @@ Transparency in Pricing
 
 Rental Process
 Step 1: Booking
-Online: Visit www.driveaway.com/book
+Online: Visit (http://localhost/projectwork/index.php)
 
 Mobile App: [iOS/Android App Link]
 
